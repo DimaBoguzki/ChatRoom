@@ -2,8 +2,8 @@
 eact and nodejs
 
 ----installation----
-open cmd in project folder
---> npm install
-cd client --> npm install
-cd.. back to root
---> npm run dev
+1. open cmd in project folder
+2. --> npm install
+3. cd client --> npm install
+4. cd.. back to root
+5. --> npm run dev
