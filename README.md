@@ -1,5 +1,5 @@
 # ChatRoom with web socket
-eact and nodejs
+ReactJS and nodeJS
 
 ----installation----
 1. open cmd in project folder
